@@ -93,8 +93,12 @@ Your server must be deployed to Heroku. Please note the deployed URL in your REA
 
 ## Links
 
-Heroku Link: https://basic-express-server-yazan.herokuapp.com/
+Heroku Link:  https://basic-api-server-yazan.herokuapp.com/
 
 Github Actions: https://github.com/yazantafesh/basic-api-server/actions
 
-Pull Request: https://github.com/yazantafesh/basic-express-server/pull/1
+Pull Request: https://github.com/yazantafesh/basic-api-server/pull/1
+
+## UML
+
+![UML](./image.png)
